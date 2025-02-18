@@ -33,15 +33,16 @@
   <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="165" />
 </p>
 
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-A-Khan&layout=compact&theme=radical" />
+</p>
+
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yaseen-A-Khan&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-A-Khan&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -53,15 +54,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
----
-
-<!-- GitHub Activity -->
-### 🔥 Recent Activity
-<!-- Github Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaseen-A-Khan&theme=dracula" />
 </p>
 
 ---
