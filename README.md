@@ -34,18 +34,18 @@
 
 <!-- GitHub Stats & Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Yaseen-A-Khan=Yaseen-A-Khan&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-A-Khan&show_icons=true&theme=radical" height="165" />
   <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="165" />
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?Yaseen-A-Khan=Yaseen-A-Khan&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaseen-A-Khan&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Yaseen-A-Khan=Yaseen-A-Khan&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-A-Khan&layout=compact&theme=radical" />
 </p>
 
 ---
