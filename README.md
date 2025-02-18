@@ -34,18 +34,18 @@
 
 <!-- GitHub Stats & Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?Yaseen-A-Khan=Yaseen-A-Khan&show_icons=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="165" />
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?Yaseen-A-Khan=Yaseen-A-Khan&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Yaseen-A-Khan=Yaseen-A-Khan&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -58,19 +58,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
----
-
-<!-- Notable Repos -->
-### 📌 Notable Projects
-<p align="center">
-  <a href="https://github.com/your-username/your-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo&theme=radical" />
-  </a>
 </p>
 
 ---
