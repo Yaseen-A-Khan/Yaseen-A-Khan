@@ -24,12 +24,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=F75C7E&center=true&vCenter=true&multiline=true&width=500&lines=Full-Stack+Developer;Lifelong+Learner" />
 </p>
 
+
 ---
 
 <!-- GitHub Stats & Streak -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-A-Khan&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="65" />
+  <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="165" />
 </p>
 
 <!-- GitHub Trophies -->
