@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Welcome Banner" width="100%" />
-</p>
 
 <!-- Introduction -->
 <h1 align="center">
