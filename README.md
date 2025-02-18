@@ -40,7 +40,7 @@
 ### 📫 Connect with Me!
 <p align="center">
   
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/yaseen-ahmed-khan-a265762a2">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yaseenahmedkhan8@gmail.com">
