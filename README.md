@@ -4,15 +4,34 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hey there! 👋 I'm [Your Name] </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+%5BYour+Name%5D"/>
+</h1>
+
 <p align="center">
   🚀 Passionate about coding, open-source, and building cool projects! <br />
   💡 Always learning and exploring new technologies.  
 </p>
 
+<!-- Animated Wave Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="animated" />
+</p>
+
+---
+
+<!-- About Me Section -->
+### 📖 About Me
+- 🔭 I’m currently working on **exciting projects**!
+- 🌱 I’m learning **Next.js, TypeScript & Cloud Computing**.
+- 💬 Ask me about **Web Development, React & Open Source**.
+- ⚡ Fun fact: *I love solving coding challenges!* 🧩
+
+---
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=F75C7E&center=true&vCenter=true&multiline=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=F75C7E&center=true&vCenter=true&multiline=true&width=500&lines=Full-Stack+Developer;Lifelong+Learner" />
 </p>
 
 ---
@@ -21,6 +40,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165" />
   <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" height="165" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- Most Used Languages -->
