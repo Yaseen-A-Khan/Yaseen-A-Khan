@@ -65,7 +65,7 @@
 ### 🔥 Recent Activity
 <!-- Github Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Yaseen-A-Khan=Yaseen-A-Khan&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaseen-A-Khan&theme=dracula" />
 </p>
 
 ---
