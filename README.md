@@ -29,7 +29,7 @@
 <!-- GitHub Stats & Streak -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-A-Khan&show_icons=true&theme=radical" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Yaseen-A-Khan&theme=tokyonight" height="160" />
 </p>
 
 <!-- GitHub Trophies -->
